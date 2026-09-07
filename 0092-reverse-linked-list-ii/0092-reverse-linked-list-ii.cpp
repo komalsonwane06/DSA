@@ -10,50 +10,48 @@
  */
 class Solution {
 public:
+
+    ListNode* reverse(ListNode* head){
+
+        ListNode* curr=head;
+        ListNode* prev=NULL;
+        ListNode* frwd=NULL;
+        while(curr){
+            frwd=curr->next;
+            curr->next=prev;
+            prev=curr;
+            curr=frwd;
+        }
+        return prev;
+    }
     ListNode* reverseBetween(ListNode* head, int left, int right) {
-
-        if (head == NULL || left == right)
-            return head;
-
-        ListNode* s = head;
-
-        // s ko left ke previous node par le jao
-        for (int i = 1; i < left - 1; i++) {
-            s = s->next;
+        ListNode* curr=head;
+        int i=1;
+        ListNode* prev=NULL;
+        ListNode* frwd=NULL;
+        ListNode* temp=head;
+        while(i<right){
+            if(i<left){
+               prev=curr;
+               curr=curr->next;
+            }
+            temp=temp->next;
+            i++;
         }
-
-        ListNode* f;
-
-        if (left == 1)
-            f = head;
-        else
-            f = s->next;
-
-        // Number of nodes to reverse
-        int count = right - left + 1;
-
-        ListNode* curr = NULL;
-        
-        while (count--) {
-            ListNode* temp = new ListNode(f->val);
-            temp->next = curr;
-            curr = temp;
-            f = f->next;
+        if(temp->next){
+            frwd=temp->next;
+            temp->next=NULL;
         }
+        ListNode* rev=reverse(curr);
 
-        if (left == 1) {
-            head = curr;
-        } 
-        else {
-            s->next = curr;
+        if(prev!=NULL){
+            prev->next=rev;
         }
-
-        while (curr->next != NULL) {
-            curr = curr->next;
+        else{
+            head=rev;
         }
-
-        curr->next = f;
-
+        curr->next=frwd;
         return head;
+
     }
 };
