@@ -27,11 +27,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/komalsonwane06/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0143-reorder-list](https://github.com/komalsonwane06/DSA/tree/master/0143-reorder-list) |
 | [0328-odd-even-linked-list](https://github.com/komalsonwane06/DSA/tree/master/0328-odd-even-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/komalsonwane06/DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/komalsonwane06/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0143-reorder-list](https://github.com/komalsonwane06/DSA/tree/master/0143-reorder-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/komalsonwane06/DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Stack
 |  |
 | ------- |
