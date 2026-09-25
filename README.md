@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/komalsonwane06/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/komalsonwane06/DSA/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/komalsonwane06/DSA/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/komalsonwane06/DSA/tree/master/0155-min-stack) |
 | [0227-basic-calculator-ii](https://github.com/komalsonwane06/DSA/tree/master/0227-basic-calculator-ii) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/komalsonwane06/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/komalsonwane06/DSA/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/komalsonwane06/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/komalsonwane06/DSA/tree/master/0503-next-greater-element-ii) |
 ## Hash Table
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/komalsonwane06/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/komalsonwane06/DSA/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/komalsonwane06/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/komalsonwane06/DSA/tree/master/0503-next-greater-element-ii) |
 ## Breadth-First Search
@@ -99,4 +102,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/komalsonwane06/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/komalsonwane06/DSA/tree/master/0085-maximal-rectangle) |
+## Matrix
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/komalsonwane06/DSA/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
