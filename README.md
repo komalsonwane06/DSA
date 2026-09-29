@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/komalsonwane06/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/komalsonwane06/DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/komalsonwane06/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/komalsonwane06/DSA/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2390-removing-stars-from-a-string](https://github.com/komalsonwane06/DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Recursion
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/komalsonwane06/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/komalsonwane06/DSA/tree/master/0503-next-greater-element-ii) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/komalsonwane06/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/komalsonwane06/DSA/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Hash Table
 |  |
 | ------- |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/komalsonwane06/DSA/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/komalsonwane06/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/komalsonwane06/DSA/tree/master/0503-next-greater-element-ii) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/komalsonwane06/DSA/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Breadth-First Search
 |  |
 | ------- |
