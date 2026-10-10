@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/komalsonwane06/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/komalsonwane06/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/komalsonwane06/DSA/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/komalsonwane06/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/komalsonwane06/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/komalsonwane06/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/komalsonwane06/DSA/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/komalsonwane06/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/komalsonwane06/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/komalsonwane06/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/komalsonwane06/DSA/tree/master/0513-find-bottom-left-tree-value) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/komalsonwane06/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/komalsonwane06/DSA/tree/master/0496-next-greater-element-i) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/komalsonwane06/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -117,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/komalsonwane06/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/komalsonwane06/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/komalsonwane06/DSA/tree/master/0513-find-bottom-left-tree-value) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/komalsonwane06/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Math
 |  |
 | ------- |
@@ -137,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/komalsonwane06/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+## Sorting
+|  |
+| ------- |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/komalsonwane06/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
