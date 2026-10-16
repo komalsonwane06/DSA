@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/komalsonwane06/DSA/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/komalsonwane06/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/komalsonwane06/DSA/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/komalsonwane06/DSA/tree/master/0496-next-greater-element-i) |
@@ -146,4 +147,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/komalsonwane06/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/komalsonwane06/DSA/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/komalsonwane06/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
