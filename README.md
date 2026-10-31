@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/komalsonwane06/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/komalsonwane06/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2390-removing-stars-from-a-string](https://github.com/komalsonwane06/DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Design
 |  |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1598-crawler-log-folder](https://github.com/komalsonwane06/DSA/tree/master/1598-crawler-log-folder) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/komalsonwane06/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/komalsonwane06/DSA/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/komalsonwane06/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Hash Table
 |  |
 | ------- |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/komalsonwane06/DSA/tree/master/0496-next-greater-element-i) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/komalsonwane06/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1338-reduce-array-size-to-the-half](https://github.com/komalsonwane06/DSA/tree/master/1338-reduce-array-size-to-the-half) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/komalsonwane06/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/komalsonwane06/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/komalsonwane06/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1338-reduce-array-size-to-the-half](https://github.com/komalsonwane06/DSA/tree/master/1338-reduce-array-size-to-the-half) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/komalsonwane06/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Backtracking
 |  |
 | ------- |
@@ -187,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/komalsonwane06/DSA/tree/master/0347-top-k-frequent-elements) |
 | [1046-last-stone-weight](https://github.com/komalsonwane06/DSA/tree/master/1046-last-stone-weight) |
 | [1338-reduce-array-size-to-the-half](https://github.com/komalsonwane06/DSA/tree/master/1338-reduce-array-size-to-the-half) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/komalsonwane06/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -206,4 +211,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/komalsonwane06/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/komalsonwane06/DSA/tree/master/0055-jump-game) |
 | [1338-reduce-array-size-to-the-half](https://github.com/komalsonwane06/DSA/tree/master/1338-reduce-array-size-to-the-half) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/komalsonwane06/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 <!---LeetCode Topics End-->
