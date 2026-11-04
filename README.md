@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/komalsonwane06/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/komalsonwane06/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/komalsonwane06/DSA/tree/master/0503-next-greater-element-ii) |
+| [0912-sort-an-array](https://github.com/komalsonwane06/DSA/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/komalsonwane06/DSA/tree/master/1046-last-stone-weight) |
 | [1338-reduce-array-size-to-the-half](https://github.com/komalsonwane06/DSA/tree/master/1338-reduce-array-size-to-the-half) |
 | [1598-crawler-log-folder](https://github.com/komalsonwane06/DSA/tree/master/1598-crawler-log-folder) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/komalsonwane06/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/komalsonwane06/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/komalsonwane06/DSA/tree/master/0912-sort-an-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/komalsonwane06/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1338-reduce-array-size-to-the-half](https://github.com/komalsonwane06/DSA/tree/master/1338-reduce-array-size-to-the-half) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/komalsonwane06/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -183,12 +185,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/komalsonwane06/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/komalsonwane06/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/komalsonwane06/DSA/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/komalsonwane06/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0264-ugly-number-ii](https://github.com/komalsonwane06/DSA/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/komalsonwane06/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/komalsonwane06/DSA/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/komalsonwane06/DSA/tree/master/1046-last-stone-weight) |
 | [1338-reduce-array-size-to-the-half](https://github.com/komalsonwane06/DSA/tree/master/1338-reduce-array-size-to-the-half) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/komalsonwane06/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -196,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/komalsonwane06/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/komalsonwane06/DSA/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -212,4 +217,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/komalsonwane06/DSA/tree/master/0055-jump-game) |
 | [1338-reduce-array-size-to-the-half](https://github.com/komalsonwane06/DSA/tree/master/1338-reduce-array-size-to-the-half) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/komalsonwane06/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/komalsonwane06/DSA/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/komalsonwane06/DSA/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/komalsonwane06/DSA/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
