@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/komalsonwane06/DSA/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/komalsonwane06/DSA/tree/master/0090-subsets-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/komalsonwane06/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/komalsonwane06/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/komalsonwane06/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/komalsonwane06/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/komalsonwane06/DSA/tree/master/0503-next-greater-element-ii) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/komalsonwane06/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/komalsonwane06/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/komalsonwane06/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/komalsonwane06/DSA/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/komalsonwane06/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0912-sort-an-array](https://github.com/komalsonwane06/DSA/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
@@ -229,4 +232,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/komalsonwane06/DSA/tree/master/0912-sort-an-array) |
+## Binary Search
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/komalsonwane06/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/komalsonwane06/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Segment Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/komalsonwane06/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Ordered Set
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/komalsonwane06/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Treap
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/komalsonwane06/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
