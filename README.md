@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/komalsonwane06/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/komalsonwane06/DSA/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/komalsonwane06/DSA/tree/master/0506-relative-ranks) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/komalsonwane06/DSA/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0912-sort-an-array](https://github.com/komalsonwane06/DSA/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/komalsonwane06/DSA/tree/master/1046-last-stone-weight) |
 | [1338-reduce-array-size-to-the-half](https://github.com/komalsonwane06/DSA/tree/master/1338-reduce-array-size-to-the-half) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/komalsonwane06/DSA/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/komalsonwane06/DSA/tree/master/0085-maximal-rectangle) |
 | [0264-ugly-number-ii](https://github.com/komalsonwane06/DSA/tree/master/0264-ugly-number-ii) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/komalsonwane06/DSA/tree/master/0871-minimum-number-of-refueling-stops) |
 ## Matrix
 |  |
 | ------- |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/komalsonwane06/DSA/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/komalsonwane06/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/komalsonwane06/DSA/tree/master/0506-relative-ranks) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/komalsonwane06/DSA/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0912-sort-an-array](https://github.com/komalsonwane06/DSA/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/komalsonwane06/DSA/tree/master/1046-last-stone-weight) |
 | [1338-reduce-array-size-to-the-half](https://github.com/komalsonwane06/DSA/tree/master/1338-reduce-array-size-to-the-half) |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/komalsonwane06/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/komalsonwane06/DSA/tree/master/0055-jump-game) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/komalsonwane06/DSA/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1338-reduce-array-size-to-the-half](https://github.com/komalsonwane06/DSA/tree/master/1338-reduce-array-size-to-the-half) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/komalsonwane06/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Merge Sort
