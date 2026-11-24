@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/komalsonwane06/DSA/tree/master/0506-relative-ranks) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/komalsonwane06/DSA/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0912-sort-an-array](https://github.com/komalsonwane06/DSA/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/komalsonwane06/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/komalsonwane06/DSA/tree/master/1046-last-stone-weight) |
 | [1338-reduce-array-size-to-the-half](https://github.com/komalsonwane06/DSA/tree/master/1338-reduce-array-size-to-the-half) |
 | [1598-crawler-log-folder](https://github.com/komalsonwane06/DSA/tree/master/1598-crawler-log-folder) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0227-basic-calculator-ii](https://github.com/komalsonwane06/DSA/tree/master/0227-basic-calculator-ii) |
 | [0264-ugly-number-ii](https://github.com/komalsonwane06/DSA/tree/master/0264-ugly-number-ii) |
+| [0973-k-closest-points-to-origin](https://github.com/komalsonwane06/DSA/tree/master/0973-k-closest-points-to-origin) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/komalsonwane06/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/komalsonwane06/DSA/tree/master/0506-relative-ranks) |
 | [0912-sort-an-array](https://github.com/komalsonwane06/DSA/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/komalsonwane06/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/komalsonwane06/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1338-reduce-array-size-to-the-half](https://github.com/komalsonwane06/DSA/tree/master/1338-reduce-array-size-to-the-half) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/komalsonwane06/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/komalsonwane06/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/komalsonwane06/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/komalsonwane06/DSA/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/komalsonwane06/DSA/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -201,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/komalsonwane06/DSA/tree/master/0506-relative-ranks) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/komalsonwane06/DSA/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0912-sort-an-array](https://github.com/komalsonwane06/DSA/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/komalsonwane06/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/komalsonwane06/DSA/tree/master/1046-last-stone-weight) |
 | [1338-reduce-array-size-to-the-half](https://github.com/komalsonwane06/DSA/tree/master/1338-reduce-array-size-to-the-half) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/komalsonwane06/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -218,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/komalsonwane06/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/komalsonwane06/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/komalsonwane06/DSA/tree/master/0973-k-closest-points-to-origin) |
 ## Greedy
 |  |
 | ------- |
@@ -259,4 +265,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/komalsonwane06/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/komalsonwane06/DSA/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/komalsonwane06/DSA/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
